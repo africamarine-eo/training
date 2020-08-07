@@ -11,7 +11,7 @@ mkdir git_reps
 cd git_reps
 
 # "clone" the code from the Git repository
-https://gitlab.eumetsat.int/eo-lab/ocean.git
+https://github.com/africamarine-eo/training_code.git
 
 # you should now have a folder called "ocean".
 # we are going to make and checkout your own local 'branch' of this code, so that you can track your changes against the downloaded code.
