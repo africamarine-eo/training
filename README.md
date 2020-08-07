@@ -1,4 +1,4 @@
-**GIT REPOSITORY FOR EUMETSAT USC TRAINING CODE FOR OCEAN DATA**
+**GIT REPOSITORY FOR GMES&Africa and Copernicus Marine Data Services TRAINING CODE FOR OCEAN DATA**
 
 ---
 **CONTENTS:**
@@ -10,7 +10,6 @@
 |GPT                 | Scripts for SNAP automation (BL/HEK) | 
 |OLCI                 | Scripts for basic OLCI data manipulation (BL/HEK) | 
 |Sentinel3_General_Tools                 | General Sentinel-3 tools (BL/HEK) | 
-|Sentinel3_Workflows                 | Specific Sentinel-3 workflows and case studies (including WIP) (BL/HEK/others) | 
 |SLSTR                 | Scripts for basic SLSTR data manipulation (BL/HEK) | 
 |STM                 | Scripts for basic surface topography (S3/J3) data manipulation (BL/HEK) | 
 |Third_Party                 | Third party tools (BL/HEK) | 
