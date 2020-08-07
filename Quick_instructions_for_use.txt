@@ -16,10 +16,10 @@ https://github.com/africamarine-eo/training_code.git
 # you should now have a folder called "ocean".
 # we are going to make and checkout your own local 'branch' of this code, so that you can track your changes against the downloaded code.
 # To do this run the line below where <YOUR_BRANCH_NAME> should be something sensible that identifies the date, your name, and what 
-# you are doing e.g. 20181121_ben_loveday_training_changes:
+# you are doing e.g. 20200810_marie_smith_training_changes:
 
-# go into the ocean
-cd ocean
+# go into the training_code
+cd training_code
 
 # and make a new branch of the code
 git checkout -b <YOUR_BRANCH_NAME>
@@ -42,7 +42,7 @@ you will need to do this for this code to work.
 
 Option 2: Windows/Linux/OSx please download the zip files form the following directory:
 --------------------------------------------------------------
-https://drive.google.com/open?id=1rcKBRdf_LtoKdTytYu5Ny102U0teoeZM
+https://drive.google.com/drive/folders/1kduS4GatDnOulrx7rLSQwPE_0tAP_VPF?usp=sharing
 
 You can download this data to anywhere on your system, but please take a note of the path you downloaded it to.
 Once downloaded, you will need to unzip the file.
@@ -62,7 +62,7 @@ or it will not be able to see it.
 Running the above command should open a browser window with the Jupiter environment pre-configured. 
 Once Jupyter notebook has opened in a brower window, you should navigate
 To check if you have all the required modules and data you need to navigate to the following code folder within your cloned Git repository:
-'../../../git_reps/ocean/Configuration_Testing' folder.
+'../../../git_reps/training_code/Configuration_Testing' folder.
 
 Here, you can find, and run the Data_path_checker and Python_Configuration_Tester scripts.
 
